@@ -2,7 +2,7 @@
 //  ViewController2.swift
 //  animation
 //
-//  Created by Apple Hsiao on 2016/12/16.
+//  Created by zeroplus on 2016/12/16.
 //  Copyright © 2016年 zeroplus. All rights reserved.
 //
 

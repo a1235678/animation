@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  animation
 //
-//  Created by Apple Hsiao on 2016/12/8.
+//  Created by zeroplus on 2016/12/8.
 //  Copyright © 2016年 zeroplus. All rights reserved.
 //
 
